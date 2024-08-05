@@ -1,0 +1,3 @@
+/home/550w/github/c++/coro_async/cmake-build-debug/CMakeFiles/coro_async.dir
+/home/550w/github/c++/coro_async/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/550w/github/c++/coro_async/cmake-build-debug/CMakeFiles/rebuild_cache.dir

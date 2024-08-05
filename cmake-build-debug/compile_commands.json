@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/550w/github/c++/coro_async/cmake-build-debug",
+  "command": "clang++   -O3 -Wall -std=gnu++20 -o CMakeFiles/coro_async.dir/main.cpp.o -c /home/550w/github/c++/coro_async/main.cpp",
+  "file": "/home/550w/github/c++/coro_async/main.cpp",
+  "output": "CMakeFiles/coro_async.dir/main.cpp.o"
+}
+]
